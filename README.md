@@ -1,5 +1,15 @@
 # Project Name: Camera Lading Page
 
+## Demo Screenshots
+
+![Demo Screenshot](https://github.com/Daniish-Qureshi/Camera-Lading-Page/blob/main/Demo.png)
+
+## Live Demo
+
+Click the button below to see the project in action:
+
+[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Camera-Lading-Page/)
+
 # Introduction
 The Camera Landing Page is a sleek and modern web page designed to showcase the latest in camera technology. Whether you're launching a new camera product or promoting a photography event, this landing page provides a visually engaging and informative experience for visitors. With its clean design and responsive layout, it effectively highlights key features and encourages user engagement.
 
@@ -13,17 +23,6 @@ The Camera Landing Page is a sleek and modern web page designed to showcase the 
 
 - HTML5: For structuring the content.
 - CSS3: For styling and layout.
-
-
-## Demo Screenshots
-
-![Demo Screenshot](https://github.com/Daniish-Qureshi/Camera-Lading-Page/blob/main/Demo.png)
-
-## Live Demo
-
-Click the button below to see the project in action:
-
-[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Camera-Lading-Page/)
 
 ## Contact
 

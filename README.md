@@ -1,4 +1,4 @@
-# Project Name: Camera Lading Page
+# Camera Lading Page
 
 ## Demo Screenshots
 
